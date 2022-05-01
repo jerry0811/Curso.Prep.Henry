@@ -1,0 +1,56 @@
+.flex-container {
+	justify-content: center;
+	display: flex;
+	height: calc(100%);
+	align-items: stretch;
+	padding: 15px;
+	margin: 15px;
+}
+
+.seccion1 {
+	background: rgb(94, 92, 92);
+	width: 50%;
+}
+
+.seccion2 {
+	background: rgb(6, 7, 6);
+	width: 10%;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: rgb(145, 201, 233);
+	font-size: 50px;
+}
+
+h2 {
+	color: yellow;
+}
+
+img {
+	margin: 5px auto;
+	border-radius: 5px;
+	padding: 5px;
+	width: 150px;
+	height: 150px;
+}
+
+#contenido {
+	padding: 15px;
+}
+
+p {
+	font-size: 20px;
+	text-align: justify;
+	font-weight: bold;
+}
+
+span {
+	background: yellow;
+}
+
+li {
+	font-size: 20px;
+	font-weight: bold;
+}

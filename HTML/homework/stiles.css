@@ -1,0 +1,36 @@
+h1 {
+	color: blue;
+	text-align: center;
+}
+
+img {
+	width: 400px;
+}
+
+#thirdDiv {
+	text-align: center;
+	height: 600px;
+	width: 500px;
+	background: yellow;
+	padding: 50px;
+	border: 3px solid black;
+	color: black;
+}
+
+#spanId {
+	margin: 50px;
+	font-size: 18px;
+}
+
+body {
+	background-image: url(https://pbs.twimg.com/profile_images/432784329203539969/8QYi_NV1_400x400.jpeg);
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.items {
+	align-self: center;
+}
